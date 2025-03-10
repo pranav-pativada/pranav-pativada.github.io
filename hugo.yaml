@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Pranav Pativada
-    subtitle: "I like to code sometimes"
+    subtitle: " CS and ML @ ANU | AI Safety and AGI Enthusiast"
     imageUrl: "/images/pranav.png"
     imageWidth: 250
     imageHeight: 250
