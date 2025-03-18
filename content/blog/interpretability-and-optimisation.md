@@ -4,6 +4,8 @@ draft: false
 title: 'Exploring the intersection of  interpretability and optimisation'
 ---
 
+***This blog won Runner Up Project for the June 2024 BlueDot AI Safety Alignment cohort***
+
 Neural networks with first-order optimisers such as SGD and Adam are the go-to when it comes to training LLMs, forming evaluations, and interpreting models in AI Safety. Meanwhile, optimisation is a hard problem that has been tackled in machine learning in many ways. In this blog, we aim to look at the intersection of interpretability and optimisation, and what it means for the AI safety space. As a brief overview, we’ll consider:
 
 - The problems a model’s optimisation landscape has, and how it affects models and our understanding of them
