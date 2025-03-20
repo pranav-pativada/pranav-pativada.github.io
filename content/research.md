@@ -34,6 +34,9 @@ AI safety related research that I've done.
 
     [Google Colab](https://colab.research.google.com/drive/19BhrvOVTvWJHFzbMyBIothJXY1KaVKbD?authuser=1)
 
+   
+*P.S: These are also in my [blog](/tags/ai-safety) - but the above are official submissions.*
+
 ## Papers
 
 These are a collection of papers that I did as university research projects or extensions to my courses.
