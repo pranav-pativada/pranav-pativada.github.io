@@ -1,6 +1,6 @@
 ---
 date: '2025-02-28T01:38:20+11:00'
-draft: true
+draft: false
 title: 'Refusal and Incapability as directions in LLMs'
 tags: ["AI Safety", "mech-interp"]
 categories: ["research"]

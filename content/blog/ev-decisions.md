@@ -1,6 +1,6 @@
 ---
 date: '2025-03-19T02:06:01+11:00'
-draft: true
+draft: false
 title: 'EV Based Decision Making'
 tags: ["reflections", "advice"]
 categories: ["personal"]
