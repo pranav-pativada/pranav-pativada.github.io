@@ -3,7 +3,7 @@ title: "Hello World"
 date: 2024-03-08T16:00:00+11:00
 draft: false
 url: "/blog/hello-world"
-tags: ["introduction", "blog"]
+tags: ["blog"]
 categories: ["general"]
 ---
 
