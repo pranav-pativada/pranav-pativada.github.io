@@ -123,6 +123,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: meeting
+      name: Book a Meeting
+      url: https://calendly.com/pranavpativada0/30min
+      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/

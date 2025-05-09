@@ -278,14 +278,6 @@ Yes. We saw in Experiments 2 and 3, even if the second order optimiser had sligh
 </details>
 <br>
 
-    
-<details style="background-color:rgb(68, 67, 67); padding: 15px; border-radius: 5px;">
-<summary><strong> 2: Does the universality condition hold for optimisers?</strong></summary>
-
-Yes. We saw in Experiments 2 and 3, even if the second order optimiser had slightly better visualisations - they were still very similar to Adam and SGD for the most part (except for the noisy ones). This shows that the features do tend to be similar even if we’re using different optimisers.
-</details>
-<br>
-
 <details style="background-color:rgb(68, 67, 67); padding: 15px; border-radius: 5px;">
 <summary><strong> 3: Can we utilise second order optimisers to ...</strong></summary>
 
