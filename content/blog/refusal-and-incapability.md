@@ -6,7 +6,7 @@ tags: ["AI Safety", "mech-interp"]
 categories: ["research"]
 ---
 
-***This is a small extension to Neel Nanda's refusal is mediated by a single direction paper.***
+***This won Best Project for the [Alignment Research Bootcamp Oxford](https://oaisi.org/arbox/)***
 
 [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717) showed that the concept of refusal is encoded as a single direction in the residual stream of the model. Incapability is another concept, somewhat similar to refusal that models also encode. In this project, I investigate how these two concepts are mechanistically represented.
  - [Colab](https://colab.research.google.com/drive/19BhrvOVTvWJHFzbMyBIothJXY1KaVKbD?authuser=1)

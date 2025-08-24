@@ -30,12 +30,21 @@ AI safety related research that I've done.
 
  - [**Refusal and Incapability as directions in LLMs**](https://docs.google.com/document/d/14HcRiSKr-G3AScuc1tEaOAvdspNY3EzmB9gVUzHZ_HM/edit?tab=t.0)
     
-    *An extension to Neel Nanda's [steering vector work](https://arxiv.org/abs/2406.11717)*
+    *Alignment Research Bootcamp Oxford*
+
+    **Best Research Project**
+
 
     [Google Colab](https://colab.research.google.com/drive/19BhrvOVTvWJHFzbMyBIothJXY1KaVKbD?authuser=1)
 
    
 *P.S: These are also in my [blog](/tags/ai-safety)!*
+
+## Thesis
+This is my final university thesis I did as a collaboration with ANU (Dylan Campbell) and Oxford Visual Geometry Group (Joao F. Henriques)
+ - [**Efficient Saddle-Free Optimisation for Deep Learning**](/papers/thesis.pdf)
+   
+    *PhB Honours Thesis - School of Computing - 88 HD*
 
 ## Papers
 
