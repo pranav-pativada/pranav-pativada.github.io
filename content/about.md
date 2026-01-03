@@ -6,7 +6,7 @@ title: "Hi there \U0001F44B"
 
 I'm Pranav! I'm a Founding Member of Technical Staff at the [Artificial Intelligence Underwriting Company](https://www.aiuc.com/) - we raised 15M from Nat Friedman, Anthropic, and Emergence! I work on model evaluations infra, red teaming, and benchmarks. 
 
-I studied computer science and machine learning under the [Bachelor of Philosophy (PhB)](https://programsandcourses.anu.edu.au/program/aphsc), and did my honours project in machine learning optimisation under [Dylan Campbell (ANU)](https://sites.google.com/view/djcampbell) and [Joao Henriques (Oxford)](https://www.robots.ox.ac.uk/~joao/). 
+I studied computer science and machine learning at the ANU under the [Bachelor of Philosophy (PhB)](https://programsandcourses.anu.edu.au/program/aphsc), and did my honours project in machine learning optimisation under [Dylan Campbell (ANU)](https://sites.google.com/view/djcampbell) and [Joao Henriques (Oxford)](https://www.robots.ox.ac.uk/~joao/). 
 
 My most recent adventures the past year have been:
  - Doing alignment research at [Oxford](https://oaisi.org/arbox/) where I looked at steering vectors for open source models. 
