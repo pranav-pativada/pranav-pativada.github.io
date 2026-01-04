@@ -30,7 +30,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Pranav Pativada
-    subtitle: " I like ML"
+    subtitle: "I work on ML stuff :D"
     imageUrl: "/images/pranav.png"
     imageWidth: 235
     imageHeight: 250

@@ -4,9 +4,9 @@ draft: false
 title: "Hi there \U0001F44B"
 ---
 
-I'm Pranav! I'm a Founding Member of Technical Staff at the [Artificial Intelligence Underwriting Company](https://www.aiuc.com/) - we raised 15M from Nat Friedman, Anthropic, and Emergence! I work on model evaluations infra, red teaming, and benchmarks. 
+I'm Pranav! I'm a Founding Member of Technical Staff at the [Artificial Intelligence Underwriting Company](https://www.aiuc.com/) - we raised 15M from Nat Friedman, Anthropic, and Emergence! I work on ML infrastructure, model evaluations, and benchmarks. 
 
-I studied computer science and machine learning at the ANU under the [Bachelor of Philosophy (PhB)](https://programsandcourses.anu.edu.au/program/aphsc), and did my honours project in machine learning optimisation under [Dylan Campbell (ANU)](https://sites.google.com/view/djcampbell) and [Joao Henriques (Oxford)](https://www.robots.ox.ac.uk/~joao/). 
+I studied computer science at the ANU under the [Bachelor of Philosophy (PhB)](https://programsandcourses.anu.edu.au/program/aphsc), where I graduated with First Class Honours (88 WAM, 6.75/7 GPA). My honours project was in machine learning optimisation as a collaboration with Oxford University under [Dylan Campbell](https://sites.google.com/view/djcampbell) and [Joao Henriques](https://www.robots.ox.ac.uk/~joao/). 
 
 My most recent adventures the past year have been:
  - Doing alignment research at [Oxford](https://oaisi.org/arbox/) where I looked at steering vectors for open source models. 
@@ -15,6 +15,6 @@ My most recent adventures the past year have been:
  - Finishing up my time at university and moving to London to do [Entrepreneurs First](https://www.joinef.com/)
  - Relocating to San Francisco to join AIUC as their first engineering hire.
 
-Amongst other things, I've worked as a software engineer at [IMC Trading](https://www.imc.com/ap) and [CSIRO](https://www.csiro.au/en/). I've published a [paper](https://ieeexplore.ieee.org/abstract/document/10410942) on Vision Transformers, which won Best Paper Runner Up at [DICTA](https://dicta2024.dictaconference.org/). I'm also generally interested in computer science and machine learning stuff, such as algorithmic programming, systems and architecture, and science of DL. 
+Amongst other things, I've worked as a quantitative developer intern at [IMC Trading](https://www.imc.com/ap) and did machine learning research at [CSIRO](https://www.csiro.au/en/). I've published a [paper](https://ieeexplore.ieee.org/abstract/document/10410942) on Vision Transformers, which won Best Paper Runner Up at [DICTA](https://dicta2024.dictaconference.org/). I'm also generally interested in computer science and machine learning stuff, such as algorithmic programming, systems and architecture, and science of DL. 
 
 Check out my [research](/research) and my [blog](/blog) if you're interested! If you'd like to chat, you can book a meeting with me [here](https://cal.com/pranavpativada/30min).
