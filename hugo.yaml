@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Pranav Pativada
-  description: "Welcome to my website!"
+  description: "Welcome to my website! I'm Pranav - nice to meet you :D"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
